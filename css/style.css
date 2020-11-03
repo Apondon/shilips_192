@@ -28,3 +28,14 @@
     left: 0;
     top: 0;
 }
+
+/* 底部样式 */
+.bottomBox{
+    padding: 40px 0;
+    background: darkblue;
+    color: #fff;
+}
+.bottomInfo{
+    padding: 40px 0 10px;
+    background: darkcyan;
+}
