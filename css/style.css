@@ -80,6 +80,9 @@
     background-origin: border-box;
     background-size: cover;
 }
+div.jumbotron{
+    margin-bottom: 0;
+}
 .w450{
     width: 450px;
 }
