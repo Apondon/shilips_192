@@ -44,3 +44,11 @@
         height: 200px;
     }
 }
+
+/* 搜索 */
+.search{
+    background: lightskyblue;
+}
+.clrdarkblue{
+    color: darkblue;
+}
